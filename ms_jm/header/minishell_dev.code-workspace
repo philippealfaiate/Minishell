@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../../../../../../../tmp"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"array": "c",
+			"compare": "c",
+			"functional": "c",
+			"ostream": "c",
+			"ranges": "c",
+			"tuple": "c",
+			"type_traits": "c",
+			"utility": "c",
+			"minishell.h": "c",
+			"prototyping.h": "c"
+		}
+	}
+}
